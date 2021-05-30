@@ -1,5 +1,5 @@
 # mortgage_calculator
-This is a repository to create mortgage calculator
+This is a project to create mortgage calculator
 
 There are three parameters to be input:
 1. Loan amount ($)
